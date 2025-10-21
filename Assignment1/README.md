@@ -86,5 +86,6 @@ After the manual invocation, the Stop instance is stopped and the Start instance
 <img width="1650" height="87" alt="image" src="https://github.com/user-attachments/assets/c5499311-a87e-42da-867d-844551f77fa0" />
 
 # Summary:
-This assignment demonstrates automated EC2 instance management using AWS Lambda and Boto3 to start and stop instances based on tag values
+. This assignment demonstrates automated EC2 instance management using AWS Lambda and Boto3. <br>
+. Based on the AWS tags, we can start or stop the instances for cost savings. <br>
 
